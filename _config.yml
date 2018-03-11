@@ -53,4 +53,6 @@ google_fonts:
     weights: "400,400i,700,700i"
     
 paginate: 10  # amount of posts to show per page
-paginate_path: /page:num/    
+paginate_path: /page:num/
+
+search_full_content: true
