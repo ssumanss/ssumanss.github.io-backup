@@ -56,3 +56,6 @@ paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 search_full_content: true
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
