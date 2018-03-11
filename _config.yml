@@ -59,3 +59,16 @@ search_full_content: true
 
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/ssumanss
+    icon: fab fa-twitter-square
+  - title: Facebook
+    url: https://facebook.com/ssumanmath
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+    
+copyright: "This site is made with <3 by *me, myself, and I*."    
