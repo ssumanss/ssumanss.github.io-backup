@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Quickstart Jupyter
 date: 2016-12-22 8:33
 tags: Python, Jupyter
