@@ -26,8 +26,8 @@ This is a test post where I want check different feature of the site
 
 ### check list 
 
-[x] crossed choice
-[ ] undecided choice 
+- [x] crossed choice
+- [ ] undecided choice 
 
 
 ## Mathematics typing
