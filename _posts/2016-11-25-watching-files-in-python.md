@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Watching Files in Python
 date: 2016-11-25 18:42
 tags: Python
