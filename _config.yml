@@ -17,7 +17,7 @@ title: Sandeep Suman
 email: sandeep@infimath.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website contains the work and hobbies of sandeep suman.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://ssmodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -69,6 +69,8 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+    
+copyright: fa fa-copyright 2016-2018 Sandeep Suman   
     
     
 # Author
