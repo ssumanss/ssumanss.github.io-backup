@@ -5,7 +5,8 @@ date: 2016-12-22 8:33
 tags: Python, Jupyter
 category: Python
 slug: quickstart-jupyter
-summary: Easiest way to quickly setup jupyter notebook offline.
+excerpt: Easiest way to quickly setup jupyter notebook offline.
+
 ---
 
 ## Introduction 
