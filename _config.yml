@@ -42,7 +42,7 @@ remote_theme: "mmistakes/so-simple-theme"
 logo: "/images/logo.png"
 date_format: "%Y-%m-%d"
 read_time: true
-words_per_minute: 200
+words_per_minute: 50
 mathjax: true
 
 google_fonts:
