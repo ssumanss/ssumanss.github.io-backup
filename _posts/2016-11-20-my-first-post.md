@@ -1,11 +1,9 @@
 ---
 title: My First Post
-subtitle: New Blog in Python
 date: 2016-11-20 20:27
 tags: Test
 category: Jekyll
 slug: my-first-post
-summary: This post is used for testing different feature of the blog. Testing math ($\sum$) in summary. 
 ---
 
 [TOC]
