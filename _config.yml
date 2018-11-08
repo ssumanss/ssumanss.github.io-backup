@@ -74,8 +74,6 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
     
-copyright: "fa fa-copyright 2016-2018 Sandeep Suman"   
-    
     
 # Author
 author: ssuman  
