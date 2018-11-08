@@ -5,7 +5,7 @@ date: 2016-11-25 18:42
 tags: Python
 category: Python
 slug: watching-files-in-python
-summary: Often in development we want to activate a set of commands when a file system of project folder changes. 
+excerpt: Often in development we want to activate a set of commands when a file system of project folder changes. 
 ---
 
 Often in development we want to activate a set of commands when a file system. We can use a python library `watchdog` for this. 
