@@ -25,9 +25,11 @@ student2 = ("Shyam", 24, 76)
  ```python
 # Step 1: import namedtuple from collections
 from collections import namedtuple
+
 # Step 2: define a prototype of student
 Student = namedtuple('Student', ["name", "age", "marks"])
 Student = namedtuple('Student', 'name age marks') # alternative
+
 # Step 3: define each individual students 
 student1 = Student("Ram", 23, 67)
 student2 = Student("shyam", 24, 76)
@@ -92,10 +94,13 @@ Suppose we have a list of namedtuple of same type, like we have a list of studen
 ```python 
 # Take a list of students
 sequence = [student1, student2]
+
 # sorting accroding to age
 l = sorted(sequence, key=attrgetter('age'))
+
 # sortng using lambda according to marks
 l = sorted(squence, key=lambda x: x.marks)
+
 # sorting using index require some work
 from operator import itemgetter
 l = sorted(sequance, key=itemgetter(0))
