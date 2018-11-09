@@ -18,7 +18,8 @@ email: sandeep@infimath.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website contains the work and hobbies of sandeep suman.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ssmodev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sandeepsuman.com" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: sandeepsuman.com
 
 # Build settings
 markdown: kramdown
