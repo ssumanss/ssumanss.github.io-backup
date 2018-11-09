@@ -9,7 +9,6 @@ excerpt_separator: "<!--more-->"
 published: true
 image: 
   path: /images/python.jpg
-  thumbnail: /images/python400x200.jpg
 ---
 
 Python supports the type of container like dictionary is called `namedtuple` is present in module `collection`. It looks like a tuple with each index has a name, and this enable us to iterate it from any index from a list of namedtuple. Another way to think it as a object with no particular method associated with it.
