@@ -2,7 +2,8 @@
 layout: post
 title:  "Namedtuple in Python"
 date:   2018-11-07
-categories: jekyll update
+categories: Programming
+tags: Python
 author: ssuman
 excerpt_separator: "<!--more-->"
 published: true
@@ -89,7 +90,7 @@ Ram
 
 ### Sorting with respect of any keys
 
-Suppose we have a list of namedtuple of same type, like we have a list of students with name, age and marks. We can sort that list in using any key.
+Suppose we have a list of namedtuple of same type, for example, we have a list of students with name, age and marks. We can sort that list using any key.
 
 ```python 
 # Take a list of students
