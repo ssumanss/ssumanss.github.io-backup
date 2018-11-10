@@ -8,7 +8,7 @@ author: ssuman
 excerpt_separator: "<!--more-->"
 published: true
 image: 
-  path: /images/python.jpg
+  path: /images/jupyter.svg
 
 ---
 
