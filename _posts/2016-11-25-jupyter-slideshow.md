@@ -8,11 +8,11 @@ author: ssuman
 excerpt_separator: "<!--more-->"
 published: true
 image: 
-  path: /images/jupyter.svg
+  path: /images/python.jpg
 
 ---
 
-This post will illustrate how to create beautiful slide in jupyter that runs in browser and shared online easily. We can make a presentation from the notebook used for calculation with little effort, this will save our time and effort.
+This post will illustrate how to create beautiful slides in jupyter that run in browser and shared online easily. We will use the notebook used for calculation to make our presentation, this will save our time and effort.
 
 <!--more-->
 
