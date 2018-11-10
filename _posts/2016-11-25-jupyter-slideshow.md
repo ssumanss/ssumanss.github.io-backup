@@ -1,11 +1,20 @@
 ---
 title: Jupyter SlideShow
 date: 2016-11-25 9:52
-tags: Python, Jupyter
-category: Python
 slug: jupyter-slideshow
-excerpt: This post will illustrate how to create beautiful slide in jupyter that runs on browser and shared online easily. 
+categories: Programming
+tags: Python Jupyter
+author: ssuman
+excerpt_separator: "<!--more-->"
+published: true
+image: 
+  path: /images/python.jpg
+
 ---
+
+This post will illustrate how to create beautiful slide in jupyter that runs in browser and shared online easily. We can make a presentation from the notebook used for calculation with little effort, this will save our time and effort.
+
+<!--more-->
 
 ## Introduction 
 
