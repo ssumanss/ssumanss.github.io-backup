@@ -2,24 +2,31 @@
 layout: post
 title: Watching Files in Python
 date: 2016-11-25 18:42
+categories: Programming
 tags: Python
-category: Python
-slug: watching-files-in-python
-excerpt: Often in development we want to activate a set of commands when a file system of project folder changes. 
+author: ssuman
+excerpt_separator: "<!--more-->"
+published: true
+image: 
+  path: /images/python.jpg
+  
 ---
 
-Often in development we want to activate a set of commands when a file system. We can use a python library `watchdog` for this. 
+Often in development we want to activate a set of commands when a file system changes. We can use a python library `watchdog` for this, it will look for change in source files and then run the build command if the sourchas modified.
+
+<!--more-->
 
 ## Installation 
 To install `watchdog` we can use `pip` like most of python library 
 
-    :::shell 
-    pip install watchdog
+```shell
+pip install watchdog
+```
     
 ## Setup
 A simple program that keeps watch on changes in a folder recursively, means each files in subfolder as well is the follwing
 
-    #!python 
+```python
     import os 
     import sys 
     import time  
@@ -62,12 +69,14 @@ A simple program that keeps watch on changes in a folder recursively, means each
             observer.stop()
 
         observer.join()
+```
 
 
 Save the above script in a file `watcher.py` in root of project. Now activate the watcher simply by 
 
-    :::shell
-    python watcher.py [optional path of directory]
+```shell
+python watcher.py [optional path of directory]
+```
 
 Now whenever any file mentioned in patterns will change, the command in `process` function will executed automatically. 
     
